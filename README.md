@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kotlia (Shun Ueda)</h1>
+<h3 align="center">https://kotlia.me</h3>
 <h3 align="center">Lehigh'25. Full-stack developer & Jazz pianist</h3>
 
 <p align="center"> <a href="https://twitter.com/u5hun" target="blank"><img
