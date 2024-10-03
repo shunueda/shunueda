@@ -8,3 +8,8 @@
 <p align="center">
   Software Engineer
 </p>
+
+<p align="center">
+  <a href="https://shu.nu"><strong>home</strong></a> ·
+  <a href="https://linkedin.com/in/shunueda/"><strong>linkedin</strong></a>
+</p>
