@@ -1,6 +1,6 @@
 $schema: https://json.schemastore.org/lefthook.json
 pre-commit:
   commands:
-    check:
+    format:
       run: pnpm format
       stage_fixed: true
