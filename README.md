@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://shu.nu">
-    <img src="https://shu.nu/icon" height="96">
+    <img src="https://shu.nu/icon.svg" height="96" alt="">
     <h3 align="center">Shun Ueda</h3>
   </a>
 </p>
@@ -10,6 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://shu.nu"><strong>home</strong></a> ·
-  <a href="https://linkedin.com/in/shunueda/"><strong>linkedin</strong></a>
+  <a href="https://shu.nu">
+    <strong>home</strong>
+  </a>
+  <span> · </span>
+  <a href="https://linkedin.com/in/shunueda/">
+    <strong>linkedin</strong>
+  </a>
 </p>
