@@ -1,1 +1,7 @@
-Shun Ueda
+*** Shun Ueda
+
+Software engineer in NYC.
+
+I like Nix & Emacs.
+
+I try to write about things that I find cool: [[https://shunueda.org/][shunueda.org]]
