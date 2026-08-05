@@ -1,1 +1,9 @@
-Shun Ueda
+*** Shun Ueda
+
+I'm Shun, a software engineer based in NYC.
+
+My interests are in software reproducability, Infrastructre as Code (IoC), and free and open source software (FOSS).
+
+Recently I spend most of my time writing Nix, OCaml & Rust. I use Emacs as my primary editor.
+
+My website: [[https://shunueda.org/][shunueda.org]]
